@@ -1,1 +1,1 @@
-https://luizpaulotrein.github.io/FrontendMentor-huddle-landing-page-/
+https://luizpaulotrein.github.io/FrontendMentor-huddle-landing-page/
