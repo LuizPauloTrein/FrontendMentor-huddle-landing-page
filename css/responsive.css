@@ -1,0 +1,44 @@
+@media screen and (max-width:900px){
+    .title{
+        font-size: 2rem;
+    }
+
+    .btn-register{
+        width: 160px;
+    }
+}
+
+@media screen and (max-width:700px){  
+    body{
+        background-image: url(../assets/images/bg-mobile.svg);
+    }
+
+    .container{
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
+    }
+
+    .description{
+        text-align: center;
+        align-items: center;
+    }
+
+    .title{
+        font-size: 1.7rem;
+    }
+
+    .quote{
+        font-size: 1rem;
+    }
+
+    .btn-register{
+        width: 200px;
+        height: 40px;
+    }
+
+    .socials{
+        justify-content: center;
+    }
+}
