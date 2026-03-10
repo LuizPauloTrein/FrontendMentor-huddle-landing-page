@@ -23,7 +23,7 @@ O objetivo principal foi praticar estruturação de páginas completas, uso de F
 
 ## 🎯 O que eu pratiquei
 
-- Estruturação semântica utilizando '<header>', '<main>', '<section>' e '<footer>'
+- Estruturação semântica utilizando `<header>`, `<main>`, `<section>` e `<footer>`
 - Criação de layout responsivo para mobile e desktop
 - Organização de arquivos CSS (reset, variables, style, responsive)
 - Uso de Flexbox para posicionamento dos elementos
